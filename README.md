@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItaloNunes
-- 👀 I’m interested in Web development
+- 👀 I’m interested Web development and Back-end development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on the comunity
 - 📫 How to reach me: E-mail: DRINV@protonmail.com
